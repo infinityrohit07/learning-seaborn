@@ -1,0 +1,14 @@
+# Python environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter generated checkpoints
+.ipynb_checkpoints/
+
+# Local OS metadata
+.DS_Store
+Thumbs.db
